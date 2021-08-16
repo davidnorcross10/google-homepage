@@ -39,6 +39,9 @@ body {
     max-width: 20px;
     color: #5f6368;
 }
+svg {
+    fill: currentColor;
+}
 #sign-in-button-container {
     max-width: 200px;
     display: flex;
