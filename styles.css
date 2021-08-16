@@ -35,6 +35,9 @@ body {
 .header-link:hover {
     text-decoration: underline;
 }
+.extras-dongle {
+    width: 30px;
+}
 .extras {
     max-width: 20px;
     color: #5f6368;
