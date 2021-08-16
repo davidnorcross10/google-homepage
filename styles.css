@@ -37,6 +37,7 @@ body {
 }
 .extras {
     max-width: 20px;
+    color: #5f6368;
 }
 #sign-in-button-container {
     max-width: 200px;
