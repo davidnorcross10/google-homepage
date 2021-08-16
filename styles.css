@@ -60,6 +60,9 @@ body {
 .header-link:hover {
     text-decoration: underline;
 }
+.header-link-left:hover {
+    text-decoration: underline;
+}
 .extras-dongle {
     width: 36px;
     height: 36px;
